@@ -2,9 +2,9 @@ Designed a very detailed Excel dashboard based on the sales of bikes, using actu
 
 🧹 Data Cleaning and Preparation: Cleaned raw data by removing duplicates and standardizing formats using functions such as Remove Duplicates and TEXT.
 
-📊 Analyzing with Pivot Tables:Used the PivotTable functionality to analyze data from bike sales. The findings in this regard also showed customer trends and patterns in consumer behavior and preference through functions such as PivotTable and SUMIFS.
+📊 Analyzing with Pivot Tables: Used the PivotTable functionality to analyze data from bike sales. The findings in this regard also showed customer trends and patterns in consumer behavior and preference through functions such as PivotTable and SUMIFS.
 
-📈 Creating Visualizations:Created some appealing charts and graphs using Excel's charting utilities to show key insights into the trends of bike sales, customer demographics, and purchasing behaviors, leveraging functions like CHART and IF.
+📈 Creating Visualizations: Created some appealing charts and graphs using Excel's charting utilities to show key insights into the trends of bike sales, customer demographics, and purchasing behaviors, leveraging functions like CHART and IF.
 
 🖥️ Dashboard Development: Built a professional dashboard that consolidated all visualizations and charts in one compact layout, utilizing Excel's dashboard functionality, such as Data Validation and Conditional Formatting.
 

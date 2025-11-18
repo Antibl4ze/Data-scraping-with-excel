@@ -1,3 +1,5 @@
+NOTE: DOWNLOAD THE EXCEL FILE AS RAW TO MAKE IT WORK
+
 Designed a very detailed Excel dashboard based on the sales of bikes, using actual data from a survey. The key steps and Excel functions applied are summarized below:
 
 🧹 Data Cleaning and Preparation: 
